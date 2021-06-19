@@ -10,3 +10,4 @@ To write a C program for implementation of Priority scheduling algorithms
 - Step 6: Check p[i].pri is greater than p[j].pri .
 - Step 7: Calculate the total of burst time and waiting time and assign as turnaround time.
 - Step 8: Stop the program.
+
